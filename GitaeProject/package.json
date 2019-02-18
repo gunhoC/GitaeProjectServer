@@ -1,0 +1,9 @@
+{
+  "name": "gitae-project",
+  "version": "0.0.0",
+  "description": "GitaeProject",
+  "main": "app.js",
+  "author": {
+    "name": "Choi"
+  }
+}
